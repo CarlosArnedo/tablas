@@ -1,0 +1,20 @@
+.T1{
+    border: red 1px solid;
+}
+
+.T2{
+    border: red 1px solid;
+}
+
+.A{
+    border: blue 2px solid;
+}
+
+.T3{
+    border: green 1px solid;
+    width: 50%;
+    
+}
+.T3 td{
+    border: 1px solid green;
+}
