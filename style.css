@@ -13,8 +13,10 @@
 .T3{
     border: green 1px solid;
     width: 50%;
+    text-align: center;
     
 }
 .T3 td{
     border: 1px solid green;
+    text-align: center;
 }
